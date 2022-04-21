@@ -11434,6 +11434,14 @@ body {
   color: #212529;
 }
 
+.iconbox {
+  position:fixed;
+  bottom:40px;
+  right:40px;
+  cursor:pointer;
+  border-radius: 100%;
+  background: white;
+}
 .sb-sidenav {
   display: flex;
   flex-direction: column;
